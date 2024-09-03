@@ -1,7 +1,7 @@
 export default () => {
     return(
         <div className="list">
-            <h4>이히히</h4>
+            <h4>test</h4>
         </div>
     )
 }
