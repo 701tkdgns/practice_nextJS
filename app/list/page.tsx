@@ -7,7 +7,7 @@ export default () => {
     // arr.map(() => {})
     return (
         <div className="list">
-            <h4>뭘봐</h4>
+            <h4>test</h4>
             {items.map((val: string, idx: number) => {
                 return (
                     <div className="food" key={val+idx}>
