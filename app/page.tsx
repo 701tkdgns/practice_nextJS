@@ -13,9 +13,9 @@ export default function Home() {
         <Link href="/list" >상품</Link>
         <Link href="/list/def" >숙제</Link>
       </div> */}
-      <h1 className="title">던파</h1>
+      <h1 className="title">test</h1>
       <p className='title-sub'>bay dev {name}</p>
-      <a href={_link}>던파</a>
+      <a href={_link}>test</a>
     </div>
   )
 }
